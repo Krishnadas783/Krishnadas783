@@ -6,16 +6,16 @@
 ### 📫 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/krishnadas-a3b0aa308/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>&nbsp;
-  <a href="https://twitter.com/YOUR_TWITTER">
+  <a href="https://x.com/home" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" />
   </a>&nbsp;
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
+  <a href="https://www.instagram.com/___krishna__das__36" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
   </a>&nbsp;
-  <a href="https://t.me/YOUR_TELEGRAM">
+  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white" />
   </a>
 </p>
@@ -24,12 +24,29 @@
 
 ### 🧰 Tech Stack
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <a href="https://cplusplus.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+  </a>
+</p>
 
 ---
 
