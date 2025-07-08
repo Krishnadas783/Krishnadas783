@@ -59,7 +59,7 @@
 
 ---
 
-### 🎯 2025 Goals
+### 🎯 
 
 - 🔥 Master DSA with C++ & Java  
 - 🚀 Build full-stack projects with React + Node  
