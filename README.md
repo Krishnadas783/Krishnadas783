@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishnadas</h1>
-<h3 align="center">Aspiring Software Engineer | Dreaming Beyond Earth 🌌</h3>
+<h3 align="center">Aspiring Tech Enthusiast | Dreaming Beyond Earth 🌌</h3>
 
 ---
 
