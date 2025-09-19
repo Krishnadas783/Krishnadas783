@@ -59,14 +59,6 @@
 
 ---
 
-### 🎯 
 
-- 🔥 Master DSA with C++ & Java  
-- 🚀 Build full-stack projects with React + Node  
-- 🌍 Contribute to Open Source  
-- 📚 Stay consistent with learning  
-- ✨ Build a stunning developer profile
-
----
 
 > *"Code with purpose. Dream beyond Earth. Stay kind, stay consistent."* 💙
